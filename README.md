@@ -1,5 +1,5 @@
-Development of a Traffic Light Controller Using Raspberry Pi 
-라즈베리파이와 파이썬을 이용한 신호등 제어 시스템 실습 결과물입니다.
+#Development of a Traffic Light Controller Using Raspberry Pi 
+#라즈베리파이와 파이썬을 이용한 신호등 제어 시스템 실습 결과물입니다.
 
 • 동작 영상 (YouTube) 
 실제 회로 구성 후 코드가 어떻게 동작하는지 아래 영상에서 확인하실 수 있습니다.
